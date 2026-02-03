@@ -11,7 +11,7 @@ Este projeto é uma ferramenta simples para ajustar os tempos de legendas em arq
 1. Clone o repositório:
    ```
    git clone https://github.com/seu-usuario/ajustar-tempo-legendas.git
-2. pip install -requirements
+2. pip install -requirements.txt
    ```
 
 ## Uso
