@@ -61,7 +61,7 @@ class AjusteLegendas:
             log.error(f"O arquivo {caminho_arquivo} não foi encontrado.")
             raise FileNotFoundError(f"O arquivo {caminho_arquivo} não foi encontrado.")
         
-        with open(caminho_arquivo, "r", encoding="utf-8") as arquivo:
+        with open(caminho_arquivo, "r") as arquivo:
             return arquivo.read()
 
     def _salvar_arquivo(self, arquivo:str, texto_ajustado:str):
