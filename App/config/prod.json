@@ -1,0 +1,6 @@
+{
+    "pastas": {
+        "legendas_originais": "./docs/leg-originais",
+        "legendas_ajustadas": "./docs/leg-ajustadas"
+    }
+}
